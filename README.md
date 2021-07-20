@@ -27,9 +27,10 @@ This application uses the Python OpenCV libraries - DLIB and CV2 to perform face
 * You can use the 'Esc' button to exit the application  
 
 ### Pictures 
-
-
-
+<li>
+<p>Right (High Pitched Note)<p/>
+<img src="images/right.png"><img/>
+<li/>
 
 ## Sources
 * 1) OpenCV installation in Python - https://towardsdatascience.com/install-and-configure-opencv-4-2-0-in-windows-10-python-7a7386ae024
